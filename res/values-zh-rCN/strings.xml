@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">恢复系统</string>
+    <string name="flash">安装恢复系统</string>
+    <string name="reboot_recovery">恢复模式重启</string>
+    <string name="reboot_normal">普通模式重启</string>
+    <string name="reboot_poweroff">正常模式关机</string>
+    <string name="about">关于</string>
+    <string name="about_content">Defy Recovery是安智网R大师，春哥，大星星通力合作，基于Koush的Clockwork Mod Recovery系统移植到Motorola Defy上的。感谢Koush为我们提供源代码，如果没有他的劳动成功，我们安智网也无法完成这个产品。如果你喜欢这个Recovery，请到<a href="http://www.goapk.com">GOAPK安智网 http://www.goapk.com</a>反馈你的建议。QQ交流群：15389310</string>
+     
+</resources>

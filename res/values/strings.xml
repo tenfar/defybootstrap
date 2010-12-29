@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Recovery</string>
+    <string name="flash">Install Recovery System</string>
+    <string name="reboot_recovery">Recovery Boot</string>
+    <string name="reboot_normal">Normal Boot</string>
+    <string name="reboot_poweroff">Normal Poweroff</string>
+    <string name="about">About</string>
+    <string name="about_content">Defy Recovery System is based on Koush\'s Bootstrap Recovery.\nI can\'t do this without his great work!\nIf you like this you can buy him or me(tenfar) a beer at <a href="http://www.xda-developers.com">www.xda-developers.com</a>.\nIf you want to fire a bug,please sent email to tenfar@gmail.com.\n Thank You!</string>
+
+     
+</resources>
